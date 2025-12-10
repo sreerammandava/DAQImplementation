@@ -1,0 +1,1266 @@
+Sampling_Rate (In Hz):100000
+Time_Duration (In s):5
+Points of X axis: 15
+Points of Y axis: 12
+Delta (Step Size in cm): 5
+Move to X: 0.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4036 V
+Move to X: 5.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3494 V
+Move to X: 10.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1688 V
+Move to X: 15.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2019 V
+Move to X: 20.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0613 V
+Move to X: 25.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.0644 V
+Move to X: 30.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.9604 V
+Move to X: 35.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.2238 V
+Move to X: 40.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0761 V
+Move to X: 45.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5481 V
+Move to X: 50.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6729 V
+Move to X: 55.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3818 V
+Move to X: 60.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2168 V
+Move to X: 65.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1484 V
+Move to X: 70.0 cm, Y: 0.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1290 V
+Move to X: 0.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4011 V
+Move to X: 5.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5604 V
+Move to X: 10.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3361 V
+Move to X: 15.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9468 V
+Move to X: 20.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3182 V
+Move to X: 25.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.2078 V
+Move to X: 30.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 4.7670 V
+Move to X: 35.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0389 V
+Move to X: 40.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 3.2027 V
+Move to X: 45.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 3.5277 V
+Move to X: 50.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4857 V
+Move to X: 55.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6145 V
+Move to X: 60.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4948 V
+Move to X: 65.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2383 V
+Move to X: 70.0 cm, Y: 5.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2020 V
+Move to X: 0.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3493 V
+Move to X: 5.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5667 V
+Move to X: 10.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2103 V
+Move to X: 15.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1063 V
+Move to X: 20.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3695 V
+Move to X: 25.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7536 V
+Move to X: 30.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.5865 V
+Move to X: 35.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.4745 V
+Move to X: 40.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.6509 V
+Move to X: 45.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9584 V
+Move to X: 50.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7564 V
+Move to X: 55.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9805 V
+Move to X: 60.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.8698 V
+Move to X: 65.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4277 V
+Move to X: 70.0 cm, Y: 10.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3698 V
+Move to X: 0.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4831 V
+Move to X: 5.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.8725 V
+Move to X: 10.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1098 V
+Move to X: 15.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0796 V
+Move to X: 20.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2567 V
+Move to X: 25.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5539 V
+Move to X: 30.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1776 V
+Move to X: 35.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2886 V
+Move to X: 40.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.0550 V
+Move to X: 45.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3296 V
+Move to X: 50.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4085 V
+Move to X: 55.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5273 V
+Move to X: 60.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1096 V
+Move to X: 65.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4560 V
+Move to X: 70.0 cm, Y: 15.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1465 V
+Move to X: 0.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3747 V
+Move to X: 5.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3961 V
+Move to X: 10.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7002 V
+Move to X: 15.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6364 V
+Move to X: 20.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1935 V
+Move to X: 25.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.8067 V
+Move to X: 30.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.0464 V
+Move to X: 35.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3093 V
+Move to X: 40.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.1493 V
+Move to X: 45.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.7041 V
+Move to X: 50.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.8856 V
+Move to X: 55.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0975 V
+Move to X: 60.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6585 V
+Move to X: 65.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4210 V
+Move to X: 70.0 cm, Y: 20.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5205 V
+Move to X: 0.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.6588 V
+Move to X: 5.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7240 V
+Move to X: 10.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4036 V
+Move to X: 15.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6299 V
+Move to X: 20.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0713 V
+Move to X: 25.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.5182 V
+Move to X: 30.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.2386 V
+Move to X: 35.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4115 V
+Move to X: 40.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 2.1190 V
+Move to X: 45.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.4890 V
+Move to X: 50.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.7184 V
+Move to X: 55.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4947 V
+Move to X: 60.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3249 V
+Move to X: 65.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3575 V
+Move to X: 70.0 cm, Y: 25.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3513 V
+Move to X: 0.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1875 V
+Move to X: 5.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7291 V
+Move to X: 10.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2084 V
+Move to X: 15.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4058 V
+Move to X: 20.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4826 V
+Move to X: 25.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.8822 V
+Move to X: 30.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1678 V
+Move to X: 35.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4803 V
+Move to X: 40.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5932 V
+Move to X: 45.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3840 V
+Move to X: 50.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3211 V
+Move to X: 55.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3532 V
+Move to X: 60.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2782 V
+Move to X: 65.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1697 V
+Move to X: 70.0 cm, Y: 30.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6043 V
+Move to X: 0.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9063 V
+Move to X: 5.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5661 V
+Move to X: 10.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6689 V
+Move to X: 15.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5842 V
+Move to X: 20.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.2846 V
+Move to X: 25.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4917 V
+Move to X: 30.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9133 V
+Move to X: 35.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3581 V
+Move to X: 40.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5896 V
+Move to X: 45.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.8101 V
+Move to X: 50.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3013 V
+Move to X: 55.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1269 V
+Move to X: 60.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4955 V
+Move to X: 65.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4743 V
+Move to X: 70.0 cm, Y: 35.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2958 V
+Move to X: 0.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6562 V
+Move to X: 5.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3621 V
+Move to X: 10.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.8873 V
+Move to X: 15.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5007 V
+Move to X: 20.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.9843 V
+Move to X: 25.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.4426 V
+Move to X: 30.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.2028 V
+Move to X: 35.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4651 V
+Move to X: 40.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3621 V
+Move to X: 45.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9118 V
+Move to X: 50.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.7740 V
+Move to X: 55.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.4492 V
+Move to X: 60.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5263 V
+Move to X: 65.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3739 V
+Move to X: 70.0 cm, Y: 40.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2866 V
+Move to X: 0.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6640 V
+Move to X: 5.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7974 V
+Move to X: 10.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.8562 V
+Move to X: 15.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.8042 V
+Move to X: 20.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.6992 V
+Move to X: 25.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3742 V
+Move to X: 30.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.4227 V
+Move to X: 35.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5139 V
+Move to X: 40.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7028 V
+Move to X: 45.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.4013 V
+Move to X: 50.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.8376 V
+Move to X: 55.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.6549 V
+Move to X: 60.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1257 V
+Move to X: 65.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4550 V
+Move to X: 70.0 cm, Y: 45.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3691 V
+Move to X: 0.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3133 V
+Move to X: 5.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3502 V
+Move to X: 10.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3248 V
+Move to X: 15.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0019 V
+Move to X: 20.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9162 V
+Move to X: 25.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3063 V
+Move to X: 30.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0808 V
+Move to X: 35.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3674 V
+Move to X: 40.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5069 V
+Move to X: 45.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.1143 V
+Move to X: 50.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9805 V
+Move to X: 55.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9955 V
+Move to X: 60.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.7372 V
+Move to X: 65.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.3004 V
+Move to X: 70.0 cm, Y: 50.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1624 V
+Move to X: 0.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.3792 V
+Move to X: 5.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9519 V
+Move to X: 10.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5696 V
+Move to X: 15.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0649 V
+Move to X: 20.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.5074 V
+Move to X: 25.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.2409 V
+Move to X: 30.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9098 V
+Move to X: 35.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.4091 V
+Move to X: 40.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6870 V
+Move to X: 45.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.9168 V
+Move to X: 50.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 1.0942 V
+Move to X: 55.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6553 V
+Move to X: 60.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.6556 V
+Move to X: 65.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.2215 V
+Move to X: 70.0 cm, Y: 55.0 cm | Press Enter to Capture (or 'q' to quit): 
+Sampling_Rate:100.0 kHz
+Samples_Per_Channel:500000 Samples
+Number of Channels:1
+Done
+Device released and Data Acquired
+   -> Recorded Vpp: 0.1723 V
+

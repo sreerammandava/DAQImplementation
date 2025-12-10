@@ -122,14 +122,14 @@ def HEATMAP(Sampling_Rate, Time_Duration):
                 print("Scan aborted.")
                 return
 
-            Raw_Buffer = Capture(Sampling_Rate, Time_Duration, silent=True)
+            Raw_Buffer = Capture(Sampling_Rate, Time_Duration)
             
             if Raw_Buffer:
 
-                data_array = np.array(raw_buffer[:])
+                data_array = np.array(Raw_Buffer[:])
                 V_pp = np.ptp(data_array) 
                 heatmap_data[y, x] = V_pp
-                print(f"   -> Recorded Vpp: {v_pp:.4f} V")
+                print(f"   -> Recorded Vpp: {V_pp:.4f} V")
 
             else:
                 print("   -> Error in capture, inserting 0")
@@ -142,7 +142,7 @@ def HEATMAP(Sampling_Rate, Time_Duration):
     plt.imshow(heatmap_data, extent=extent, origin='lower', cmap='inferno', aspect='auto')
     cb = plt.colorbar()
     cb.set_label("Peak-to-Peak Voltage (V)", size=24)
-    plt.title(f"Ultrasonic C-Scan ({x_steps}x{y_steps} Grid)", size=24)
+    plt.title(f"Ultrasonic C-Scan ({X_Iters}x{Y_Iters} Grid)", size=24)
     plt.xlabel("X Position (cm)", size=24)
     plt.ylabel("Y Position (cm)", size=24)
     plt.show()
@@ -154,4 +154,4 @@ if __name__ == '__main__':
     Time_Duration = int(input("Time_Duration (In s):"))
 
 
-    HEATMAP(Sampling_Rate, Time_Duration_
+    HEATMAP(Sampling_Rate, Time_Duration)
